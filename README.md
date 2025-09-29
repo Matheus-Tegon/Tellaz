@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Tellaz.visitor-badgee&color=green&style=flat-square" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Matheus-Tegon.visitor-badgee&color=green&style=flat-square" />
 
 - ### Olá, sou o Matheus Eduardo dos Santos Tegon 👋
 - 📫 Meu e-mail é: tegonmatheus@gmail.com;
@@ -13,7 +13,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0353B1&lines=Desenvolvedor+de+Software;2%2B+anos+de+experiência+em+código;Sempre+aprendendo+coisas+novas)](https://git.io/typing-svg)
 <!---
-Tellaz/Tellaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Matheus-Tegon/Tellaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
@@ -28,5 +28,5 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.linkedin.com/in/matheus-tegon-a95b8a1b0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 
 
-<a href="https://github.com/Tellaz"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tellaz&layout=compact&langs_count=7&theme=dracula" />  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tellaz&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
+<a href="https://github.com/Matheus-Tegon"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Tegon&layout=compact&langs_count=7&theme=dracula" />  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheus-Tegon&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
 
